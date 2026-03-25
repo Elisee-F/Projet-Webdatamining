@@ -1,0 +1,11 @@
+http://my-web-mining-kb.com/entity/Meta	http://my-web-mining-kb.com/relation/Owner_Of	http://my-web-mining-kb.com/entity/Facebook
+http://my-web-mining-kb.com/entity/User_1	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_1
+http://my-web-mining-kb.com/entity/User_54	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_54
+http://my-web-mining-kb.com/entity/Elon_Musk	http://my-web-mining-kb.com/relation/Founder_Of	http://my-web-mining-kb.com/entity/Tesla
+http://my-web-mining-kb.com/entity/User_40	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_40
+http://my-web-mining-kb.com/entity/Amazon	http://my-web-mining-kb.com/relation/Provides	http://my-web-mining-kb.com/entity/Cloud_Service
+http://my-web-mining-kb.com/entity/User_23	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_23
+http://my-web-mining-kb.com/entity/User_16	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_16
+http://my-web-mining-kb.com/entity/User_64	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_64
+http://my-web-mining-kb.com/entity/Google	http://my-web-mining-kb.com/relation/Produces	http://my-web-mining-kb.com/entity/Chrome
+http://my-web-mining-kb.com/entity/User_77	http://my-web-mining-kb.com/relation/Interacts_With	http://my-web-mining-kb.com/entity/Product_77

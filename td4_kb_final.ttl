@@ -1,0 +1,210 @@
+@prefix mykb: <http://my-web-mining-kb.com/entity/> .
+@prefix rel: <http://my-web-mining-kb.com/relation/> .
+
+mykb:Meta rel:Owner_Of mykb:Facebook,
+        mykb:Instagram .
+
+mykb:Netflix rel:Provides mykb:Streaming_Service .
+
+mykb:User_1 rel:Interacts_With mykb:Product_1 .
+
+mykb:User_10 rel:Interacts_With mykb:Product_10 .
+
+mykb:User_11 rel:Interacts_With mykb:Product_11 .
+
+mykb:User_12 rel:Interacts_With mykb:Product_12 .
+
+mykb:User_13 rel:Interacts_With mykb:Product_13 .
+
+mykb:User_14 rel:Interacts_With mykb:Product_14 .
+
+mykb:User_15 rel:Interacts_With mykb:Product_15 .
+
+mykb:User_16 rel:Interacts_With mykb:Product_16 .
+
+mykb:User_17 rel:Interacts_With mykb:Product_17 .
+
+mykb:User_18 rel:Interacts_With mykb:Product_18 .
+
+mykb:User_19 rel:Interacts_With mykb:Product_19 .
+
+mykb:User_2 rel:Interacts_With mykb:Product_2 .
+
+mykb:User_20 rel:Interacts_With mykb:Product_20 .
+
+mykb:User_21 rel:Interacts_With mykb:Product_21 .
+
+mykb:User_22 rel:Interacts_With mykb:Product_22 .
+
+mykb:User_23 rel:Interacts_With mykb:Product_23 .
+
+mykb:User_24 rel:Interacts_With mykb:Product_24 .
+
+mykb:User_25 rel:Interacts_With mykb:Product_25 .
+
+mykb:User_26 rel:Interacts_With mykb:Product_26 .
+
+mykb:User_27 rel:Interacts_With mykb:Product_27 .
+
+mykb:User_28 rel:Interacts_With mykb:Product_28 .
+
+mykb:User_29 rel:Interacts_With mykb:Product_29 .
+
+mykb:User_3 rel:Interacts_With mykb:Product_3 .
+
+mykb:User_30 rel:Interacts_With mykb:Product_30 .
+
+mykb:User_31 rel:Interacts_With mykb:Product_31 .
+
+mykb:User_32 rel:Interacts_With mykb:Product_32 .
+
+mykb:User_33 rel:Interacts_With mykb:Product_33 .
+
+mykb:User_34 rel:Interacts_With mykb:Product_34 .
+
+mykb:User_35 rel:Interacts_With mykb:Product_35 .
+
+mykb:User_36 rel:Interacts_With mykb:Product_36 .
+
+mykb:User_37 rel:Interacts_With mykb:Product_37 .
+
+mykb:User_38 rel:Interacts_With mykb:Product_38 .
+
+mykb:User_39 rel:Interacts_With mykb:Product_39 .
+
+mykb:User_4 rel:Interacts_With mykb:Product_4 .
+
+mykb:User_40 rel:Interacts_With mykb:Product_40 .
+
+mykb:User_41 rel:Interacts_With mykb:Product_41 .
+
+mykb:User_42 rel:Interacts_With mykb:Product_42 .
+
+mykb:User_43 rel:Interacts_With mykb:Product_43 .
+
+mykb:User_44 rel:Interacts_With mykb:Product_44 .
+
+mykb:User_45 rel:Interacts_With mykb:Product_45 .
+
+mykb:User_46 rel:Interacts_With mykb:Product_46 .
+
+mykb:User_47 rel:Interacts_With mykb:Product_47 .
+
+mykb:User_48 rel:Interacts_With mykb:Product_48 .
+
+mykb:User_49 rel:Interacts_With mykb:Product_49 .
+
+mykb:User_5 rel:Interacts_With mykb:Product_5 .
+
+mykb:User_50 rel:Interacts_With mykb:Product_50 .
+
+mykb:User_51 rel:Interacts_With mykb:Product_51 .
+
+mykb:User_52 rel:Interacts_With mykb:Product_52 .
+
+mykb:User_53 rel:Interacts_With mykb:Product_53 .
+
+mykb:User_54 rel:Interacts_With mykb:Product_54 .
+
+mykb:User_55 rel:Interacts_With mykb:Product_55 .
+
+mykb:User_56 rel:Interacts_With mykb:Product_56 .
+
+mykb:User_57 rel:Interacts_With mykb:Product_57 .
+
+mykb:User_58 rel:Interacts_With mykb:Product_58 .
+
+mykb:User_59 rel:Interacts_With mykb:Product_59 .
+
+mykb:User_6 rel:Interacts_With mykb:Product_6 .
+
+mykb:User_60 rel:Interacts_With mykb:Product_60 .
+
+mykb:User_61 rel:Interacts_With mykb:Product_61 .
+
+mykb:User_62 rel:Interacts_With mykb:Product_62 .
+
+mykb:User_63 rel:Interacts_With mykb:Product_63 .
+
+mykb:User_64 rel:Interacts_With mykb:Product_64 .
+
+mykb:User_65 rel:Interacts_With mykb:Product_65 .
+
+mykb:User_66 rel:Interacts_With mykb:Product_66 .
+
+mykb:User_67 rel:Interacts_With mykb:Product_67 .
+
+mykb:User_68 rel:Interacts_With mykb:Product_68 .
+
+mykb:User_69 rel:Interacts_With mykb:Product_69 .
+
+mykb:User_7 rel:Interacts_With mykb:Product_7 .
+
+mykb:User_70 rel:Interacts_With mykb:Product_70 .
+
+mykb:User_71 rel:Interacts_With mykb:Product_71 .
+
+mykb:User_72 rel:Interacts_With mykb:Product_72 .
+
+mykb:User_73 rel:Interacts_With mykb:Product_73 .
+
+mykb:User_74 rel:Interacts_With mykb:Product_74 .
+
+mykb:User_75 rel:Interacts_With mykb:Product_75 .
+
+mykb:User_76 rel:Interacts_With mykb:Product_76 .
+
+mykb:User_77 rel:Interacts_With mykb:Product_77 .
+
+mykb:User_78 rel:Interacts_With mykb:Product_78 .
+
+mykb:User_79 rel:Interacts_With mykb:Product_79 .
+
+mykb:User_8 rel:Interacts_With mykb:Product_8 .
+
+mykb:User_80 rel:Interacts_With mykb:Product_80 .
+
+mykb:User_81 rel:Interacts_With mykb:Product_81 .
+
+mykb:User_82 rel:Interacts_With mykb:Product_82 .
+
+mykb:User_83 rel:Interacts_With mykb:Product_83 .
+
+mykb:User_84 rel:Interacts_With mykb:Product_84 .
+
+mykb:User_9 rel:Interacts_With mykb:Product_9 .
+
+mykb:Amazon rel:CEO_Of mykb:Andy_Jassy ;
+    rel:Provides mykb:Cloud_Service .
+
+mykb:Andy_Jassy rel:Works_For mykb:Amazon .
+
+mykb:Apple_Inc rel:CEO_Of mykb:Tim_Cook ;
+    rel:Headquartered_In mykb:Cupertino ;
+    rel:Produces mykb:MacBook,
+        mykb:iPhone .
+
+mykb:California rel:Located_In mykb:United_States .
+
+mykb:Cupertino rel:Located_In mykb:California .
+
+mykb:Elon_Musk rel:Founder_Of mykb:Tesla .
+
+mykb:Google rel:CEO_Of mykb:Sundar_Pichai ;
+    rel:Produces mykb:Android,
+        mykb:Chrome .
+
+mykb:Microsoft rel:CEO_Of mykb:Satya_Nadella ;
+    rel:Produces mykb:Windows,
+        mykb:Xbox .
+
+mykb:Satya_Nadella rel:Works_For mykb:Microsoft .
+
+mykb:Sundar_Pichai rel:Works_For mykb:Google .
+
+mykb:Tesla rel:CEO_Of mykb:Elon_Musk ;
+    rel:Produces mykb:Model_3,
+        mykb:Model_Y .
+
+mykb:Tim_Cook rel:Works_For mykb:Apple_Inc .
+

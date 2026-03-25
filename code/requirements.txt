@@ -1,0 +1,15 @@
+
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+selenium>=4.15.2
+trafilatura>=1.7.0
+
+spacy>=3.7.2
+pandas>=2.1.4
+numpy>=1.26.2
+openpyxl>=3.1.2
+# For progress bars
+tqdm>=4.66.1
+python-dotenv>=1.0.0
+# Selenium
+webdriver-manager>=4.0.1

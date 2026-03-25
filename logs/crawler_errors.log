@@ -1,0 +1,12 @@
+[2026-03-13 16:04:55] 静态爬取https://www.louvre.fr/en/collections失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/collections
+[2026-03-13 16:05:09] 静态爬取https://www.louvre.fr/en/visitors-information失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/visitors-information
+[2026-03-13 16:05:19] 静态爬取https://www.louvre.fr/en/works-of-art/mona-lisa失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/works-of-art/mona-lisa
+[2026-03-13 16:05:27] 静态爬取https://www.louvre.fr/en/works-of-art/venus-de-milo失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/works-of-art/venus-de-milo
+[2026-03-13 16:05:35] 静态爬取https://www.louvre.fr/en/works-of-art/winged-victory-of-samothrace失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/works-of-art/winged-victory-of-samothrace
+[2026-03-13 16:11:24] 静态爬取https://www.louvre.fr/en/collections/all-artworks失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/collections/all-artworks
+[2026-03-13 16:11:32] 静态爬取https://www.louvre.fr/en/visitor-information失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/visitor-information
+[2026-03-13 16:11:40] 静态爬取https://www.louvre.fr/en/artworks/mona-lisa-779880失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/artworks/mona-lisa-779880
+[2026-03-13 16:11:49] 静态爬取https://www.louvre.fr/en/artworks/venus-de-milo-2202失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/artworks/venus-de-milo-2202
+[2026-03-13 16:11:57] 静态爬取https://www.louvre.fr/en/artworks/winged-victory-of-samothrace-3947失败: 404 Client Error: Not Found for url: https://www.louvre.fr/en/artworks/winged-victory-of-samothrace-3947
+[2026-03-13 16:13:40] 静态爬取https://en.wikipedia.org/wiki/List_of_artworks_in_the_Louvre失败: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/List_of_artworks_in_the_Louvre
+[2026-03-13 16:17:50] Static crawl failed for https://en.wikipedia.org/wiki/Category:Artworks_in_the_Louvre: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Category:Artworks_in_the_Louvre
