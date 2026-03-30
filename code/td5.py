@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1kRAa9LiJ40OJkKbMb6RMJxfRDTXDDa9f
 """
 
-!pip install pykeen
-
-!pip install rdflib
-
 from google.colab import files
 
 uploaded = files.upload()
